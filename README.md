@@ -23,7 +23,7 @@ $banco = "xtserveropensource"; // nome do seu banco de dados
 
 $dbusuario = "root"; // usuario do seu banco de dados
 
-$dbsenha = ""; // senha do seu banco de dados
+$dbsenha = "032530"; // senha do seu banco de dados
 
 dados de acesso
 usuario: admin
